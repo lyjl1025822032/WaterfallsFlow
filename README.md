@@ -1,2 +1,2 @@
 # WaterfallsFlow
-![image](http://github.com/kaqijiang/pull-down-image-zoom-demo/raw/master/image/Demo1.jpg)
+![image](http://github.com/lyjl1025822032/WaterfallsFlow/raw/master/WaterfallsFlow/WaterfallsFlow/ScreenShot/a.png)
